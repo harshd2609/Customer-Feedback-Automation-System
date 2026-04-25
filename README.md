@@ -209,13 +209,6 @@ To help management take faster and better decisions.
 * Microsoft Excel
 * Microsoft Power BI
 
----
-
-# 📊 Dashboard Preview
-
-```markdown id="img01"
-![Dashboard Preview](dashboard_screenshot.png)
-```
 
 ---
 
