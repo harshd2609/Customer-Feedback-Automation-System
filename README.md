@@ -1,4 +1,4 @@
-#🚀 Automated Customer Feedback ETL Pipeline
+🚀 Automated Customer Feedback ETL Pipeline
 Using Streamlit • PostgreSQL • Python • Excel • Power BI
 📌 Project Overview
 
